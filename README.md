@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### I from italy and I live Empoli.
 ******
 - 🔭 I’m currently working on ITS Vita
-- 🌱 I’m currently learning different programming in language
+- 🌱 I’m currently learning different programming languages
 ******
 ## My social
 :link: https://linktr.ee/leonardocerchioni
